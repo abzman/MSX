@@ -1,0 +1,1 @@
+This model of the knob and d-pad adapter are meant for a Vishay 657-0-0-203 potentiometer, and the knob file comes from the project I borrowed the export code from,  https://www.raphnet.net/electronique/sms_paddle/index_en.php
